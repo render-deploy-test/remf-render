@@ -1,0 +1,15 @@
+category-encoders==2.5.0
+dalex==1.5.0
+dash==2.7.0
+dash-tools
+dill==0.3.5.1
+gunicorn==20.1.0
+graphviz==0.20.1
+matplotlib==3.6.0
+numpy==1.23.3
+openpyxl==3.0.10
+pandas==1.5.0
+plotly==5.10.0
+scikit-learn==1.1.2
+seaborn==0.12.0
+xgboost==1.6.2
